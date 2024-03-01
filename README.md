@@ -1,0 +1,2 @@
+# datorika
+datorika
