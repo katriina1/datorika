@@ -1,0 +1,57 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+  Created on : Feb 9, 2024, 1:02:52 PM
+    Author     : kspule2
+*/
+
+p {
+   font-family: "Lucida Console", "Courier New", monospace;
+   color: darkblue;
+   border-style: dotted;
+   border-color: red;
+   size: 40px;
+   text-shadow: 2px 2px 5px yellow; 
+}
+    
+body {
+    
+    background-image: url("../image/bbgg.jpg");
+    background-size: 1900px 1000px;
+    background-repeat: no-repeat;
+}   
+h3 {
+    color: aqua
+}    
+h2 {
+    color: aqua;
+    text-shadow: 2px 2px 5px red; 
+}    
+    
+ul {
+    color: olive
+}  
+    
+    
+ table, th, td {
+  border: 1px solid;
+ 
+  width: 25%;
+
+  border-collapse: collapse;
+
+  height: 70px;
+  color: red
+}   
+    
+td:hover {background-color: coral;}
+    
+ th, td {
+  padding: 15px;
+  text-align: left;
+}   
+    
+    
+    
